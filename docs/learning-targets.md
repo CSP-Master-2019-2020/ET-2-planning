@@ -6,8 +6,9 @@ layout: tabbed-assignment
 
 I can:
 
-* 
-* 
+* Describe the elements and purpose of the Explore PT
+* Describe the scoring guidelines for the Explore PT
+* Evaluate sample Explore PTs by applying the scoring guidelines
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
